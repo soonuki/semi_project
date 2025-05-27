@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="C:\Users\SAMSUNG\git\semi_project\src\main\webapp" path="" reloadable="false" source="org.eclipse.jst.jee.server:semi_project"><Resources><PreResources base="C:\Users\SAMSUNG\git\semi_project\build\classes" classLoaderOnly="false" className="org.apache.catalina.webresources.DirResourceSet" internalPath="/" webAppMount="/WEB-INF/classes"/></Resources></Context>
